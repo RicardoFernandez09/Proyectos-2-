@@ -1,0 +1,10 @@
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\Damas_Inglesas C#\Damas_Inglesas C#\bin\Debug\Damas_Inglesas C#.exe.config
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\Damas_Inglesas C#\Damas_Inglesas C#\bin\Debug\Damas_Inglesas C#.exe
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\Damas_Inglesas C#\Damas_Inglesas C#\bin\Debug\Damas_Inglesas C#.pdb
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\Damas_Inglesas C#\Damas_Inglesas C#\obj\Debug\Damas_Inglesas C#.csproj.AssemblyReference.cache
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\Damas_Inglesas C#\Damas_Inglesas C#\obj\Debug\Damas_Inglesas_C_.Form1.resources
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\Damas_Inglesas C#\Damas_Inglesas C#\obj\Debug\Damas_Inglesas_C_.Properties.Resources.resources
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\Damas_Inglesas C#\Damas_Inglesas C#\obj\Debug\Damas_Inglesas C#.csproj.GenerateResource.cache
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\Damas_Inglesas C#\Damas_Inglesas C#\obj\Debug\Damas_Inglesas C#.csproj.CoreCompileInputs.cache
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\Damas_Inglesas C#\Damas_Inglesas C#\obj\Debug\Damas_Inglesas C#.exe
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\Damas_Inglesas C#\Damas_Inglesas C#\obj\Debug\Damas_Inglesas C#.pdb

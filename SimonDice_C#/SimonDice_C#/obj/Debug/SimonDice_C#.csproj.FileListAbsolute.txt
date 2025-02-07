@@ -1,0 +1,10 @@
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\SimonDice_C#\SimonDice_C#\bin\Debug\SimonDice_C#.exe.config
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\SimonDice_C#\SimonDice_C#\bin\Debug\SimonDice_C#.exe
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\SimonDice_C#\SimonDice_C#\bin\Debug\SimonDice_C#.pdb
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\SimonDice_C#\SimonDice_C#\obj\Debug\SimonDice_C#.csproj.AssemblyReference.cache
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\SimonDice_C#\SimonDice_C#\obj\Debug\SimonDice_C_.Form1.resources
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\SimonDice_C#\SimonDice_C#\obj\Debug\SimonDice_C_.Properties.Resources.resources
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\SimonDice_C#\SimonDice_C#\obj\Debug\SimonDice_C#.csproj.GenerateResource.cache
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\SimonDice_C#\SimonDice_C#\obj\Debug\SimonDice_C#.csproj.CoreCompileInputs.cache
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\SimonDice_C#\SimonDice_C#\obj\Debug\SimonDice_C#.exe
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\SimonDice_C#\SimonDice_C#\obj\Debug\SimonDice_C#.pdb
