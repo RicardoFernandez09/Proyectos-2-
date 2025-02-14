@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{31CA7285-D36A-4EA1-AF61-3DAC18A101A9}|SimonDice_C#\\SimonDice_C#.csproj|solutionrelative:simondice_c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31CA7285-D36A-4EA1-AF61-3DAC18A101A9}|SimonDice_C#\\SimonDice_C#.csproj|c:\\users\\rf024\\onedrive\\documentos\\proyect 2!\\simondice_c#\\simondice_c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{31CA7285-D36A-4EA1-AF61-3DAC18A101A9}|SimonDice_C#\\SimonDice_C#.csproj|C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\SimonDice_C#\\simondice_c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{31CA7285-D36A-4EA1-AF61-3DAC18A101A9}|SimonDice_C#\\SimonDice_C#.csproj|solutionrelative:simondice_c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "SimonDice_C#\\Form1.cs",
               "ToolTip": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\SimonDice_C#\\SimonDice_C#\\Form1.cs",
               "RelativeToolTip": "SimonDice_C#\\Form1.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAqwIsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAIgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T13:31:23.458Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\SimonDice_C#\\SimonDice_C#\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "SimonDice_C#\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T13:19:57.036Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-02-07T13:19:57.036Z"
             }
           ]
         }
