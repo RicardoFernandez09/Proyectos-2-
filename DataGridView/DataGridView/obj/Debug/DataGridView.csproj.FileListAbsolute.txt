@@ -1,0 +1,10 @@
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\DataGridView\DataGridView\bin\Debug\DataGridView.exe.config
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\DataGridView\DataGridView\bin\Debug\DataGridView.exe
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\DataGridView\DataGridView\bin\Debug\DataGridView.pdb
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.AssemblyReference.cache
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\DataGridView\DataGridView\obj\Debug\DataGridView.Form1.resources
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\DataGridView\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.cache
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.CoreCompileInputs.cache
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\DataGridView\DataGridView\obj\Debug\DataGridView.exe
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\DataGridView\DataGridView\obj\Debug\DataGridView.pdb

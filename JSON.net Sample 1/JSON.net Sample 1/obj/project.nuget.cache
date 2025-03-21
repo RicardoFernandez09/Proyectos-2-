@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4H/axveSpzs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\JSON.net Sample 1\\JSON.net Sample 1\\JSON.net Sample 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rf024\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

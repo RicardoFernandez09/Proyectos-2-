@@ -1,0 +1,6 @@
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\JSON.net Sample 1\JSON.net Sample 1\obj\Debug\net8.0\JSON.net Sample 1.csproj.AssemblyReference.cache
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\JSON.net Sample 1\JSON.net Sample 1\obj\Debug\net8.0\JSON.net Sample 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\JSON.net Sample 1\JSON.net Sample 1\obj\Debug\net8.0\JSON.net Sample 1.AssemblyInfoInputs.cache
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\JSON.net Sample 1\JSON.net Sample 1\obj\Debug\net8.0\JSON.net Sample 1.AssemblyInfo.cs
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\JSON.net Sample 1\JSON.net Sample 1\obj\Debug\net8.0\JSON.net Sample 1.csproj.CoreCompileInputs.cache
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\JSON.net Sample 1\JSON.net Sample 1\obj\Debug\net8.0\JSON.net Sample 1.sourcelink.json

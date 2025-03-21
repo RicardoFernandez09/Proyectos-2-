@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\JSON.net Sample 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B4C1C8-A643-4F1D-B742-5CC7BAD7DC44}|JSON.net Sample 1\\JSON.net Sample 1.csproj|c:\\users\\rf024\\onedrive\\documentos\\proyect 2!\\json.net sample 1\\json.net sample 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B4C1C8-A643-4F1D-B742-5CC7BAD7DC44}|JSON.net Sample 1\\JSON.net Sample 1.csproj|solutionrelative:json.net sample 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B4C1C8-A643-4F1D-B742-5CC7BAD7DC44}|JSON.net Sample 1\\JSON.net Sample 1.csproj|c:\\users\\rf024\\onedrive\\documentos\\proyect 2!\\json.net sample 1\\json.net sample 1\\model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B4C1C8-A643-4F1D-B742-5CC7BAD7DC44}|JSON.net Sample 1\\JSON.net Sample 1.csproj|solutionrelative:json.net sample 1\\model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B4C1C8-A643-4F1D-B742-5CC7BAD7DC44}|JSON.net Sample 1\\JSON.net Sample 1.csproj|c:\\users\\rf024\\onedrive\\documentos\\proyect 2!\\json.net sample 1\\json.net sample 1\\model\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B4C1C8-A643-4F1D-B742-5CC7BAD7DC44}|JSON.net Sample 1\\JSON.net Sample 1.csproj|solutionrelative:json.net sample 1\\model\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B4C1C8-A643-4F1D-B742-5CC7BAD7DC44}|JSON.net Sample 1\\JSON.net Sample 1.csproj|c:\\users\\rf024\\onedrive\\documentos\\proyect 2!\\json.net sample 1\\json.net sample 1\\model\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B4C1C8-A643-4F1D-B742-5CC7BAD7DC44}|JSON.net Sample 1\\JSON.net Sample 1.csproj|solutionrelative:json.net sample 1\\model\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B4C1C8-A643-4F1D-B742-5CC7BAD7DC44}|JSON.net Sample 1\\JSON.net Sample 1.csproj|c:\\users\\rf024\\onedrive\\documentos\\proyect 2!\\json.net sample 1\\json.net sample 1\\model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B4C1C8-A643-4F1D-B742-5CC7BAD7DC44}|JSON.net Sample 1\\JSON.net Sample 1.csproj|solutionrelative:json.net sample 1\\model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B4C1C8-A643-4F1D-B742-5CC7BAD7DC44}|JSON.net Sample 1\\JSON.net Sample 1.csproj|c:\\users\\rf024\\onedrive\\documentos\\proyect 2!\\json.net sample 1\\json.net sample 1\\model\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B4C1C8-A643-4F1D-B742-5CC7BAD7DC44}|JSON.net Sample 1\\JSON.net Sample 1.csproj|solutionrelative:json.net sample 1\\model\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B4C1C8-A643-4F1D-B742-5CC7BAD7DC44}|JSON.net Sample 1\\JSON.net Sample 1.csproj|c:\\users\\rf024\\onedrive\\documentos\\proyect 2!\\json.net sample 1\\json.net sample 1\\json.net sample 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0B4C1C8-A643-4F1D-B742-5CC7BAD7DC44}|JSON.net Sample 1\\JSON.net Sample 1.csproj|solutionrelative:json.net sample 1\\json.net sample 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\JSON.net Sample 1\\JSON.net Sample 1\\Model\\Country.cs",
+              "RelativeDocumentMoniker": "JSON.net Sample 1\\Model\\Country.cs",
+              "ToolTip": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\JSON.net Sample 1\\JSON.net Sample 1\\Model\\Country.cs",
+              "RelativeToolTip": "JSON.net Sample 1\\Model\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:53:12.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\JSON.net Sample 1\\JSON.net Sample 1\\Model\\City.cs",
+              "RelativeDocumentMoniker": "JSON.net Sample 1\\Model\\City.cs",
+              "ToolTip": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\JSON.net Sample 1\\JSON.net Sample 1\\Model\\City.cs",
+              "RelativeToolTip": "JSON.net Sample 1\\Model\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:52:46.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\JSON.net Sample 1\\JSON.net Sample 1\\Model\\Phone.cs",
+              "RelativeDocumentMoniker": "JSON.net Sample 1\\Model\\Phone.cs",
+              "ToolTip": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\JSON.net Sample 1\\JSON.net Sample 1\\Model\\Phone.cs",
+              "RelativeToolTip": "JSON.net Sample 1\\Model\\Phone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:52:29.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\JSON.net Sample 1\\JSON.net Sample 1\\Model\\Address.cs",
+              "RelativeDocumentMoniker": "JSON.net Sample 1\\Model\\Address.cs",
+              "ToolTip": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\JSON.net Sample 1\\JSON.net Sample 1\\Model\\Address.cs",
+              "RelativeToolTip": "JSON.net Sample 1\\Model\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:52:10.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\JSON.net Sample 1\\JSON.net Sample 1\\Model\\Contact.cs",
+              "RelativeDocumentMoniker": "JSON.net Sample 1\\Model\\Contact.cs",
+              "ToolTip": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\JSON.net Sample 1\\JSON.net Sample 1\\Model\\Contact.cs",
+              "RelativeToolTip": "JSON.net Sample 1\\Model\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:51:42.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JSON.net Sample 1.csproj",
+              "DocumentMoniker": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\JSON.net Sample 1\\JSON.net Sample 1\\JSON.net Sample 1.csproj",
+              "RelativeDocumentMoniker": "JSON.net Sample 1\\JSON.net Sample 1.csproj",
+              "ToolTip": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\JSON.net Sample 1\\JSON.net Sample 1\\JSON.net Sample 1.csproj",
+              "RelativeToolTip": "JSON.net Sample 1\\JSON.net Sample 1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-19T10:45:24.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\JSON.net Sample 1\\JSON.net Sample 1\\Program.cs",
+              "RelativeDocumentMoniker": "JSON.net Sample 1\\Program.cs",
+              "ToolTip": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\JSON.net Sample 1\\JSON.net Sample 1\\Program.cs",
+              "RelativeToolTip": "JSON.net Sample 1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:35:13.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\XML C#\XML C#\bin\Debug\net8.0\XML C#.exe
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\XML C#\XML C#\bin\Debug\net8.0\XML C#.deps.json
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\XML C#\XML C#\bin\Debug\net8.0\XML C#.runtimeconfig.json
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\XML C#\XML C#\bin\Debug\net8.0\XML C#.dll
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\XML C#\XML C#\bin\Debug\net8.0\XML C#.pdb
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\XML C#\XML C#\obj\Debug\net8.0\XML C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\XML C#\XML C#\obj\Debug\net8.0\XML C#.AssemblyInfoInputs.cache
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\XML C#\XML C#\obj\Debug\net8.0\XML C#.AssemblyInfo.cs
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\XML C#\XML C#\obj\Debug\net8.0\XML C#.csproj.CoreCompileInputs.cache
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\XML C#\XML C#\obj\Debug\net8.0\XML C#.sourcelink.json
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\XML C#\XML C#\obj\Debug\net8.0\XML C#.dll
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\XML C#\XML C#\obj\Debug\net8.0\refint\XML C#.dll
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\XML C#\XML C#\obj\Debug\net8.0\XML C#.pdb
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\XML C#\XML C#\obj\Debug\net8.0\XML C#.genruntimeconfig.cache
+C:\Users\rf024\OneDrive\Documentos\Proyect 2!\XML C#\XML C#\obj\Debug\net8.0\ref\XML C#.dll
