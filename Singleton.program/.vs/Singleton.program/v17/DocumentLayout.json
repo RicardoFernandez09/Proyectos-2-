@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\Singleton.program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E34506-DCFC-493D-AF0E-72E84A1E4D8A}|Singleton.program\\Singleton.program.csproj|c:\\users\\rf024\\onedrive\\documentos\\proyect 2!\\singleton.program\\singleton.program\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E34506-DCFC-493D-AF0E-72E84A1E4D8A}|Singleton.program\\Singleton.program.csproj|solutionrelative:singleton.program\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E34506-DCFC-493D-AF0E-72E84A1E4D8A}|Singleton.program\\Singleton.program.csproj|c:\\users\\rf024\\onedrive\\documentos\\proyect 2!\\singleton.program\\singleton.program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E34506-DCFC-493D-AF0E-72E84A1E4D8A}|Singleton.program\\Singleton.program.csproj|solutionrelative:singleton.program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\Singleton.program\\Singleton.program\\Singleton.cs",
+              "RelativeDocumentMoniker": "Singleton.program\\Singleton.cs",
+              "ToolTip": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\Singleton.program\\Singleton.program\\Singleton.cs",
+              "RelativeToolTip": "Singleton.program\\Singleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T06:29:11.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\Singleton.program\\Singleton.program\\Program.cs",
+              "RelativeDocumentMoniker": "Singleton.program\\Program.cs",
+              "ToolTip": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\Singleton.program\\Singleton.program\\Program.cs",
+              "RelativeToolTip": "Singleton.program\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T06:26:43.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

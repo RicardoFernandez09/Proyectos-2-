@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\Factory Method en C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E297E48-AF8E-4E27-9C05-02695A5DD337}|Factory Method en C#\\Factory Method en C#.csproj|c:\\users\\rf024\\onedrive\\documentos\\proyect 2!\\factory method en c#\\factory method en c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E297E48-AF8E-4E27-9C05-02695A5DD337}|Factory Method en C#\\Factory Method en C#.csproj|solutionrelative:factory method en c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E297E48-AF8E-4E27-9C05-02695A5DD337}|Factory Method en C#\\Factory Method en C#.csproj|c:\\users\\rf024\\onedrive\\documentos\\proyect 2!\\factory method en c#\\factory method en c#\\creador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E297E48-AF8E-4E27-9C05-02695A5DD337}|Factory Method en C#\\Factory Method en C#.csproj|solutionrelative:factory method en c#\\creador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E297E48-AF8E-4E27-9C05-02695A5DD337}|Factory Method en C#\\Factory Method en C#.csproj|c:\\users\\rf024\\onedrive\\documentos\\proyect 2!\\factory method en c#\\factory method en c#\\cerveza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E297E48-AF8E-4E27-9C05-02695A5DD337}|Factory Method en C#\\Factory Method en C#.csproj|solutionrelative:factory method en c#\\cerveza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E297E48-AF8E-4E27-9C05-02695A5DD337}|Factory Method en C#\\Factory Method en C#.csproj|c:\\users\\rf024\\onedrive\\documentos\\proyect 2!\\factory method en c#\\factory method en c#\\vinotinto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E297E48-AF8E-4E27-9C05-02695A5DD337}|Factory Method en C#\\Factory Method en C#.csproj|solutionrelative:factory method en c#\\vinotinto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E297E48-AF8E-4E27-9C05-02695A5DD337}|Factory Method en C#\\Factory Method en C#.csproj|c:\\users\\rf024\\onedrive\\documentos\\proyect 2!\\factory method en c#\\factory method en c#\\bebidaembriagante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E297E48-AF8E-4E27-9C05-02695A5DD337}|Factory Method en C#\\Factory Method en C#.csproj|solutionrelative:factory method en c#\\bebidaembriagante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Creador.cs",
+              "DocumentMoniker": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\Factory Method en C#\\Factory Method en C#\\Creador.cs",
+              "RelativeDocumentMoniker": "Factory Method en C#\\Creador.cs",
+              "ToolTip": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\Factory Method en C#\\Factory Method en C#\\Creador.cs",
+              "RelativeToolTip": "Factory Method en C#\\Creador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T23:40:15.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cerveza.cs",
+              "DocumentMoniker": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\Factory Method en C#\\Factory Method en C#\\Cerveza.cs",
+              "RelativeDocumentMoniker": "Factory Method en C#\\Cerveza.cs",
+              "ToolTip": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\Factory Method en C#\\Factory Method en C#\\Cerveza.cs",
+              "RelativeToolTip": "Factory Method en C#\\Cerveza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T23:39:27.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VinoTinto.cs",
+              "DocumentMoniker": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\Factory Method en C#\\Factory Method en C#\\VinoTinto.cs",
+              "RelativeDocumentMoniker": "Factory Method en C#\\VinoTinto.cs",
+              "ToolTip": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\Factory Method en C#\\Factory Method en C#\\VinoTinto.cs",
+              "RelativeToolTip": "Factory Method en C#\\VinoTinto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T23:37:31.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BebidaEmbriagante.cs",
+              "DocumentMoniker": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\Factory Method en C#\\Factory Method en C#\\BebidaEmbriagante.cs",
+              "RelativeDocumentMoniker": "Factory Method en C#\\BebidaEmbriagante.cs",
+              "ToolTip": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\Factory Method en C#\\Factory Method en C#\\BebidaEmbriagante.cs",
+              "RelativeToolTip": "Factory Method en C#\\BebidaEmbriagante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T23:35:20.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\Factory Method en C#\\Factory Method en C#\\Program.cs",
+              "RelativeDocumentMoniker": "Factory Method en C#\\Program.cs",
+              "ToolTip": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\Factory Method en C#\\Factory Method en C#\\Program.cs",
+              "RelativeToolTip": "Factory Method en C#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T23:31:12.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
