@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\Programa de expresiones regulares\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B7CAA1-475A-4947-9310-3E77B3E56C61}|Programa de expresiones regulares\\Programa de expresiones regulares.csproj|c:\\users\\rf024\\onedrive\\documentos\\proyect 2!\\programa de expresiones regulares\\programa de expresiones regulares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B7CAA1-475A-4947-9310-3E77B3E56C61}|Programa de expresiones regulares\\Programa de expresiones regulares.csproj|solutionrelative:programa de expresiones regulares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\Programa de expresiones regulares\\Programa de expresiones regulares\\Program.cs",
+              "RelativeDocumentMoniker": "Programa de expresiones regulares\\Program.cs",
+              "ToolTip": "C:\\Users\\rf024\\OneDrive\\Documentos\\Proyect 2!\\Programa de expresiones regulares\\Programa de expresiones regulares\\Program.cs",
+              "RelativeToolTip": "Programa de expresiones regulares\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T20:04:54.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
